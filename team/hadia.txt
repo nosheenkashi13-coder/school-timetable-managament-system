@@ -1,0 +1,5 @@
+Name: Hadia
+DS Character: Stack Hadia
+Role in Project: DS Wizard
+
+I am Stack Hadia — last in, first out! I suggested which data structures would be used in our School Timetable Management System, including stacks, linked lists, and arrays for handling teacher schedules and class allocations. My depth of DS knowledge ensured that our system follows proper logic and efficiency.

@@ -1,0 +1,5 @@
+Name: Ayma
+DS Character: Array Ayma
+Role in Project: Idea Machine
+
+I am Array Ayma — always organized and fixed in size! In our School Timetable Management System project, I contributed creative ideas for how teachers, subjects, and class schedules should be arranged clearly and efficiently. My structured thinking helped the team develop a balanced approach to weekly timetable design.
